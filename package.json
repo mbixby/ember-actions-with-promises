@@ -1,0 +1,16 @@
+{
+  "name": "ember-actions-with-promises",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "coffee -o dist -c src/ember-actions-with-promises.coffee"
+  },
+  "repository": "https://github.com/mbixby/ember-actions-with-promises",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}

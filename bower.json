@@ -1,0 +1,9 @@
+{
+  "name": "ember-actions-with-promises",
+  "dependencies": {
+    "ember": "~1.7",
+    "requirejs": "*"
+  },
+  "ignore": [],
+  "main": "dist/ember-actions-with-promises.js"
+}
